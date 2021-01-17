@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://avatars1.githubusercontent.com/u/20029825?s=460&u=24025ac6d69f2861d84d580f298c06bf02470385&v=4"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://avatars1.githubusercontent.com/u/20029825?s=460&u=24025ac6d69f2861d84d580f298c06bf02470385&v=4"
+    },
+    {
+      "name": "Teste colors",
+      "image": "https://avatars1.githubusercontent.com/u/20029825?s=460&u=24025ac6d69f2861d84d580f298c06bf02470385&v=4",
+      "id": 3
+    }
+  ]
+}
